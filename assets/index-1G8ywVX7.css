@@ -1,0 +1,1 @@
+.country{border:2px solid salmon;margin:20px;padding:20px;border-radius:20px}.btn{border:2px solid salmon;margin:5px;padding:5px;border-radius:10px}.country-visited{background-color:#7fffd4}.countries{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
