@@ -1,0 +1,11 @@
+import React from 'react';
+
+const countries = () => {
+    return (
+        <div>
+            <h1>All countries are here</h1>
+        </div>
+    );
+};
+
+export default countries;
